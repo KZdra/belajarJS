@@ -12,4 +12,8 @@ nama = 'Indra' // ganti value di var nama
 console.log('nama saya ' + nama) // eksekusi  variable yang sudah di ganti value nya
 */
 
-
+/* CONST 
+const umur = 30 //normal
+//umur = 35// ABNORMAL NOT WORK BECAUSE CONSTANTA TETAP
+console.log('umur saya ' + umur)// ERROR IF MENDEKLARASIKAN VARIABLE YANG SAMA DENGAN VALUE YANG BEDA
+*/
