@@ -17,3 +17,15 @@ const umur = 30 //normal
 //umur = 35// ABNORMAL NOT WORK BECAUSE CONSTANTA TETAP
 console.log('umur saya ' + umur)// ERROR IF MENDEKLARASIKAN VARIABLE YANG SAMA DENGAN VALUE YANG BEDA
 */
+
+/* LET 
+let makanan = 'tongseng'// variable let bisa diganti value nya seperti var
+//makanan = "nasi padang"// bila ini di eksekusi maka makanan akan berganti menjadi nasi padang
+console.log('makanan kesukaan saya ' + makanan)// executor
+*/
+
+//Variable + Prompt
+//var nama = prompt('masukan nama anda:')
+//alert('HAI'+ nama)
+
+// JAVASCRIPT BASIC 03
